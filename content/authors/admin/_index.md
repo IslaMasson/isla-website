@@ -6,7 +6,7 @@ title: Dr Isla Masson
 superuser: true
 
 # Role/position/tagline
-role: Programme Leader
+role: Programme Leader/Senior Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,5 +73,6 @@ highlight_name: false
 Dr Isla Masson is a programme leader for criminology and sociology courses at Arden University. Her research interests range from female offenders, gender, and motherhood to restorative Justice, rehabilitation, incarceration, penology, offender management, and prisoners’ families, among other related topics. 
 
 Isla has written a great number of publications which focus on these subjects including reducing the harm of short term imprisonment and restorative justice with female offenders. Additionally, she has published blogs about female offender strategy and how the coronavirus affects family and friends of people on remand.
-
+#
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#
