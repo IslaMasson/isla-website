@@ -49,12 +49,12 @@ social:
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=XXX
-- icon: github
-  icon_pack: fab
-  link: https://github.com/IslaMasson
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/isla-masson-827399208
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/IslaMasson
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/isla-masson-827399208
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -73,6 +73,3 @@ highlight_name: false
 Dr Isla Masson is a programme leader for criminology and sociology courses at Arden University. Her research interests range from female offenders, gender, and motherhood to restorative Justice, rehabilitation, incarceration, penology, offender management, and prisoners’ families, among other related topics. 
 
 Isla has written a great number of publications which focus on these subjects including reducing the harm of short term imprisonment and restorative justice with female offenders. Additionally, she has published blogs about female offender strategy and how the coronavirus affects family and friends of people on remand.
-#
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
-#
