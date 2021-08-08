@@ -14,9 +14,7 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr Isla Masson is a programme leader for criminology and sociology courses at Arden University. Her research interests range from female offenders, gender, and motherhood to restorative Justice, rehabilitation, incarceration, penology, offender management, and prisoners’ families, among other related topics.
-
-Isla has written a great number of publications which focus on these subjects including reducing the harm of short term imprisonment and restorative justice with female offenders. Additionally, she has published blogs about female offender strategy and how the coronavirus affects family and friends of people on remand.
+bio: Dr Isla Masson is a programme leader for criminology and sociology courses at Arden University. Her research interests range from female offenders, gender, and motherhood to restorative Justice, rehabilitation, incarceration, penology, offender management, and prisoners’ families, among other related topics. Isla has written a great number of publications which focus on these subjects including reducing the harm of short term imprisonment and restorative justice with female offenders. Additionally, she has published blogs about female offender strategy and how the coronavirus affects family and friends of people on remand.
 
 # Interests to show in About widget
 interests:
