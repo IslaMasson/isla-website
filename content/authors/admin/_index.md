@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Criminology
+  - course: PhD in Laws Research
     institution: King's College London
     year: 
   - course: MSc in Clinical Criminology
