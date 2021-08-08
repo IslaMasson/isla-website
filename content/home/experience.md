@@ -27,12 +27,7 @@ experience:
     company_url: ''
     company_logo: ArdUni
     date_start: '2021-07-01'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 
         
   - title: Lecturer in Criminology
     company: University of Leicester
@@ -40,7 +35,7 @@ experience:
     company_logo: LeiUni
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Something Good.
+    description: 
     
   - title: Lecturer in Criminology
     company: Coventry University
@@ -48,7 +43,7 @@ experience:
     company_logo: CovUni
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Something good.
+    description: 
     
   - title: Lecturer 
     company: Royal Holloway
