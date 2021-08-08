@@ -74,5 +74,5 @@ Dr Isla Masson is a programme leader for criminology and sociology courses at Ar
 
 Isla has written a great number of publications which focus on these subjects including reducing the harm of short term imprisonment and restorative justice with female offenders. Additionally, she has published blogs about female offender strategy and how the coronavirus affects family and friends of people on remand.
 #
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<! {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. >
 #
