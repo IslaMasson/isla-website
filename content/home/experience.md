@@ -24,6 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Programme Leader/Senior Lecturer
     company: Arden University
+    company_url: ''
+    company_logo: org-gc
     date_start: '2021-07-01'
     description: |2-
         Responsibilities include:
@@ -34,24 +36,32 @@ experience:
         
   - title: Lecturer in Criminology
     company: University of Leicester
+    company_url: ''
+    company_logo: org-gc
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Something Good.
     
   - title: Lecturer in Criminology
     company: Coventry University
+    company_url: ''
+    company_logo: org-gc
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Something good.
     
   - title: Lecturer 
     company: Royal Holloway
+    company_url: ''
+    company_logo: org-gc
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: 
     
   - title: Graduate Teaching Assistant
     company: London School of Economics
+    company_url: ''
+    company_logo: org-gc
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: 
