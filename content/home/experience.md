@@ -33,32 +33,32 @@ experience:
     company: University of Leicester
     company_url: ''
     company_logo: LeiUni
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2017-08-01'
+    date_end: '2021-06-31'
     description: 
     
   - title: Lecturer in Criminology
     company: Coventry University
     company_url: ''
     company_logo: CovUni
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2014-06-01'
+    date_end: '2017-07-31'
     description: 
     
   - title: Lecturer 
     company: Royal Holloway
     company_url: ''
     company_logo: RoyUni
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2014-06-01'
+    date_end: '2014-04-31'
     description: 
     
   - title: Graduate Teaching Assistant
     company: London School of Economics
     company_url: ''
     company_logo: LSEUni
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2014-06-01'
+    date_end: '2013-07-31'
     description: 
     
 design:
